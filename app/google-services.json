@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "80437002958",
+    "project_id": "hancode-task",
+    "storage_bucket": "hancode-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80437002958:android:e1dd8516bd7659a78fc69f",
+        "android_client_info": {
+          "package_name": "com.hancode_task.service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80437002958-bms77dn3lni3scu2n9mlmjgjrg3bkn2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hancode_task.service",
+            "certificate_hash": "35268cc8c918c750f9e3cc5aaae52afd142ea3e1"
+          }
+        },
+        {
+          "client_id": "80437002958-ftkrtogltt2sst62k5m54jhv7f237bcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hancode_task.service",
+            "certificate_hash": "e5c7d0b60b753dc0cdcf2db47f6bd814511cc717"
+          }
+        },
+        {
+          "client_id": "80437002958-gaa074a27486g4g060ltiuhaog3vi4hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuH1V0G3Eej6hYD5XDxoUo7bsPk7ghm9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80437002958-gaa074a27486g4g060ltiuhaog3vi4hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
